@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/31da06bac3731e8b567dc239ba151b49358be74f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_3dc911938250c785ab39551b05dd0df7040debf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_aa471f3d69be92ecefa689d3782df5cdb3d5125d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/79afc19f7fbeba88f660d42f94df9a581793c963/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_b0c16796efe7552a8ce2dc704d70146bbd0d51c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/7e1018e7921c9c2eb7cab734bbbe84a4319a0a0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_b589c0a6d857646f2b526a804ea9901f5f53c546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/9a913fe36529a331b8a5cc4c545a37ee6410ade6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_c93fa305de9c1a6ed62ab400f67aba31c9e29edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/f76efb53ffebe857ad4b5b6316a096b2b3f1e743/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_cd009733a24fa9ca7715daf4830c8896958dc1df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e75a907500872b3a4f77f6cfcb1e00bd6549f430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/5afb273b2ac85da6ad28a154ba57ae14b2126d66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_35c7dff9f3ca4c89756e56d545be5855e6e79087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/359173465fecc796a617eca6e69587cd9f96cca5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_8f43425c7b8056a761f22a3007935f98b1f30645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/51305b9a16abdcf8e6a3335260e7b0ba015a8c0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_b96de53d4ae2c887e766ac74993eb0effdf0ee94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fbe744c3e2955f970598b7527534422a4d313c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/83a70c8b9cda6f52a62a37092d8d69efc796e270/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_5ba85a3ae533ff977a7ab7a83c95b1c4c97b1025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/dec603896b951cd1741725db3435e6e4a529653e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_5d085322570e6d1f76784f0f56b2ac4a068ffe2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_023d3f4619c9f5f8a8ee7c8b202a8f25116a3da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/e37c6c31cb61934452994cda90cc044404c9e329/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_49fd0e2828fc7dde0f74e359214389cae824d3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/d4e823dc050a9459fed34cd7596d64bd1e83fc5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_5c1647d84f6f4a458dbdcd1def4b49b6b4da8ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ysfkp/.android/build-cache/cc74ab2c7084f237f673c00d875a6ad35b94dd78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ysfkp/AndroidStudioProjects/Sekor/app/build/intermediates/pre-dexed/debug/classes_5b14ae325718bc32b3e4599632e765416cd4fafd.jar" />
+    </item>
+
+</items>
